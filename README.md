@@ -35,7 +35,7 @@ This project is implemented entirely in **Haskell** and involves **concurrent pr
 3. Start the game by running the following in GHCi:
 
    ```bash
-startGame humanPlayer aiPlayer
+   ghci startGame humanPlayer aiPlayer
 
 ## Gameplay
 
